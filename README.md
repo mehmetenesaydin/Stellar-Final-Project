@@ -1,5 +1,9 @@
 # Token Contract with Freeze/Unfreeze Functionality
 
+Contract Address
+
+GAXUAI63OZVWOROVK5Y2RKQLAPJTFN3RK4H3LWB2WNZQG3TC73JLREI2
+
 This Rust project is a Soroban smart contract designed to manage token transfers, with additional functionality to freeze and unfreeze specific accounts. The contract consists of two main files: `contract.rs` and `main.rs`.
 
 ## Table of Contents
@@ -39,6 +43,3 @@ You can install Rust by running:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 
-Contract Address
-
-GAXUAI63OZVWOROVK5Y2RKQLAPJTFN3RK4H3LWB2WNZQG3TC73JLREI2
